@@ -8,12 +8,13 @@
 
 ---
 
-
 ### <p align="center"><b>✦ LANGUAGES ✦</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/English-B2-0077B5?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Spanish-Native-FF5733?style=for-the-badge" />
 </p>
+
+<br>
 
 ---
 
@@ -52,6 +53,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<br>
+
 ---
 
 ### <p align="center"><b>✦ GITHUB STATS ✦</b></p>
@@ -62,8 +65,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=radical" />
 </p>
 
----
+<br>
 
+---
 
 ### <p align="center"><b>✦ HOBBIES AND INTERESTS ✦</b></p>
 
@@ -74,7 +78,10 @@
   <img src="https://img.shields.io/badge/Gardening-32CD32?style=for-the-badge&logo=tree&logoColor=white" />
 </p>
 
+<br>
+
 ---
+
 ### <p align="center"><b>✦ CONTACT ✦</b></p>
 <p align="center">
   <a href="mailto:rivasgamoantonio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
