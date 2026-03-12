@@ -81,3 +81,13 @@
   <a href="https://www.linkedin.com/in/antoniorivasgamo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AntonioRivasGamo" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<br>
+
+---
+
+<p align="center">
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=00002CB14C6CEA26AF9A51D7DF9DA220931E554F2DFDACED28CF7565CC992D64" target="_blank">
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png" width="200" alt="Oracle Certified Associate, Java SE 8">
+  </a>
+</p>
