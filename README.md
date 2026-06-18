@@ -90,11 +90,3 @@
 </p>
 
 <br>
-
----
-
-<p align="center">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=00002CB14C6CEA26AF9A51D7DF9DA220931E554F2DFDACED28CF7565CC992D64" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/JAVA8OJA.png" width="200" alt="Oracle Certified Associate, Java SE 8">
-  </a>
-</p>
