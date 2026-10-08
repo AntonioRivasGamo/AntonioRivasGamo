@@ -63,6 +63,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=antoniorivasgamo&show_icons=true&theme=radical" />
 </p>
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=antoniorivasgamo&theme=radical" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=radical" />
 </p>
 
