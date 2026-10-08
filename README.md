@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:00C9FF&height=280&section=header&text=Antonio%20Rivas&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full+Stack%20Developer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=280&section=header&text=Antonio%20Rivas&fontSize=50&fontColor=7dcfff&animation=twinkling&desc=Full+Stack%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF7F&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot;Docker+%7C+Kubernetes;Pyhton+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=bb9af7&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot;Docker+%7C+Kubernetes;Python+%7C+FastAPI" />
 </p>
 
 ---
@@ -60,13 +60,13 @@
 
 ### <p align="center"><b>✦ GITHUB STATS ✦</b></p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=antoniorivasgamo&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=antoniorivasgamo&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=antoniorivasgamo&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=antoniorivasgamo&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=tokyonight" />
 </p>
 
 <br>
