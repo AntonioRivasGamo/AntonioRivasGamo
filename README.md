@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:00C9FF&height=280&section=header&text=Antonio%20Rivas&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Backend%20Developer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,100:00C9FF&height=280&section=header&text=Antonio%20Rivas&fontSize=50&fontColor=ffffff&animation=twinkling&desc=Full+Stack%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF7F&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot;Docker+%7C+Kubernetes" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00FF7F&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot;Docker+%7C+Kubernetes;Pyhton+%7C+FastAPI" />
 </p>
 
 ---
@@ -23,18 +23,19 @@
 ### <p align="center">Languages</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### <p align="center">Frameworks & Libraries</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
 ### <p align="center">Databases</p>
