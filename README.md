@@ -54,19 +54,37 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+### <p align="center">Operating Systems & Distros</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+</p>
+
 <br>
+
+---
+
+### <p align="center"><b>✦ FEATURED PROJECTS ✦</b></p>
+<p align="center">
+  <a href="https://github.com/AntonioRivasGamo/PygmyGoat">
+    <img src="https://github-readme-stats-tau-one-42.vercel.app/api/pin/?username=AntonioRivasGamo&repo=PygmyGoat&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
 ### <p align="center"><b>✦ GITHUB STATS ✦</b></p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=antoniorivasgamo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-tau-one-42.vercel.app/api?username=antoniorivasgamo&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=antoniorivasgamo&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-tau-one-42.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=tokyonight" />
 </p>
 
 <br>
