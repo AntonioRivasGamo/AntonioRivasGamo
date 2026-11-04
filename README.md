@@ -78,13 +78,13 @@
 
 ### <p align="center"><b>✦ GITHUB STATS ✦</b></p>
 <p align="center">
-  <img src="https://github-readme-stats-tau-one-42.vercel.app/api?username=antoniorivasgamo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=AntonioRivasGamo&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=antoniorivasgamo&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=AntonioRivasGamo&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-tau-one-42.vercel.app/api/top-langs/?username=antoniorivasgamo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=AntonioRivasGamo&layout=compact&theme=tokyonight" />
 </p>
 
 <br>
