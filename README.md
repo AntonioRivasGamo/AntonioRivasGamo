@@ -84,7 +84,7 @@
   <img src="https://streak-stats.demolab.com?user=AntonioRivasGamo&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=AntonioRivasGamo&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=AntonioRivasGamo&layout=compact&theme=tokyonight&hide=tex,css,html" />
 </p>
 
 <br>
