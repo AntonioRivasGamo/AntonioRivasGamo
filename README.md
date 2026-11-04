@@ -70,7 +70,7 @@
 ### <p align="center"><b>✦ FEATURED PROJECTS ✦</b></p>
 <p align="center">
   <a href="https://github.com/AntonioRivasGamo/PygmyGoat">
-    <img src="https://github-readme-stats-tau-one-42.vercel.app/api/pin/?username=AntonioRivasGamo&repo=PygmyGoat&theme=tokyonight" />
+    <img src="https://github-readme-stats-extended.vercel.app/api/pin/?username=AntonioRivasGamo&repo=PygmyGoat&theme=tokyonight" />
   </a>
 </p>
 
