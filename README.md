@@ -91,19 +91,6 @@
 
 ---
 
-### <p align="center"><b>✦ HOBBIES AND INTERESTS ✦</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/3D_Printing-FF6F61?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fishing-1E90FF?style=for-the-badge&logo=fishing&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gaming-8A2BE2?style=for-the-badge&logo=xbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gardening-32CD32?style=for-the-badge&logo=tree&logoColor=white" />
-</p>
-
-<br>
-
----
-
 ### <p align="center"><b>✦ CONTACT ✦</b></p>
 <p align="center">
   <a href="mailto:rivasgamoantonio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
