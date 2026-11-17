@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 300" width="820" height="300" role="img" aria-label="whoami --verbose">
+  <style>
+    text { font-family: 'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace; font-size: 15px; }
+    .user { fill: #9ece6a; }
+    .path { fill: #7aa2f7; }
+    .txt  { fill: #c0caf5; }
+    .key  { fill: #565f89; }
+    .val  { fill: #c0caf5; }
+    .acc  { fill: #bb9af7; }
+    .ok   { fill: #9ece6a; }
+    .out  { opacity: 0; animation: show 0.4s ease-out forwards; }
+    .wipe { transform-box: fill-box; transform-origin: left center; transform: scaleX(0); animation: type 1s steps(16, end) 0.5s forwards; }
+    .cursor { fill: #c0caf5; animation: blink 1s steps(1) infinite; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes type { to { transform: scaleX(1); } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } }
+  </style>
+
+  <defs>
+    <clipPath id="cmd"><rect class="wipe" x="188" y="58" width="180" height="22"/></clipPath>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="819" height="299" rx="12" fill="#1a1b26" stroke="#3b4261"/>
+  <path d="M0.5 12.5 a12 12 0 0 1 12 -12 h795 a12 12 0 0 1 12 12 v25 h-819 z" fill="#16161e"/>
+  <circle cx="24" cy="18" r="6" fill="#f7768e"/>
+  <circle cx="44" cy="18" r="6" fill="#e0af68"/>
+  <circle cx="64" cy="18" r="6" fill="#9ece6a"/>
+  <text x="410" y="23" text-anchor="middle" class="key" font-size="13">antonio@madrid: ~</text>
+
+  <text x="24" y="74"><tspan class="user">antonio@madrid</tspan><tspan class="txt">:</tspan><tspan class="path">~</tspan><tspan class="txt">$ </tspan></text>
+  <text x="188" y="74" class="txt" clip-path="url(#cmd)">whoami --verbose</text>
+
+  <g class="out" style="animation-delay:1.8s">
+    <text x="24" y="110"><tspan class="key">name       </tspan><tspan class="val">Antonio Rivas</tspan></text>
+  </g>
+  <g class="out" style="animation-delay:2.1s">
+    <text x="24" y="138"><tspan class="key">role       </tspan><tspan class="acc">Backend Developer</tspan></text>
+  </g>
+  <g class="out" style="animation-delay:2.4s">
+    <text x="24" y="166"><tspan class="key">location   </tspan><tspan class="val">Madrid, ES (Europe/Madrid)</tspan></text>
+  </g>
+  <g class="out" style="animation-delay:2.7s">
+    <text x="24" y="194"><tspan class="key">stack      </tspan><tspan class="val">Java · Spring Boot · Python · FastAPI</tspan></text>
+  </g>
+  <g class="out" style="animation-delay:3.0s">
+    <text x="24" y="222"><tspan class="key">infra      </tspan><tspan class="val">Docker · Kubernetes · Maven · openSUSE</tspan></text>
+  </g>
+  <g class="out" style="animation-delay:3.3s">
+    <text x="24" y="250"><tspan class="key">status     </tspan><tspan class="ok">✔ open to collaborate</tspan></text>
+  </g>
+
+  <rect class="cursor" x="24" y="268" width="9" height="3"/>
+</svg>
