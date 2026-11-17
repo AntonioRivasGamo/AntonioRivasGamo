@@ -1,3 +1,4 @@
+<!-- UPDATE -->
 <p align="center">
   <img src="./assets/terminal.svg" alt="whoami --verbose" width="820" />
 </p>
