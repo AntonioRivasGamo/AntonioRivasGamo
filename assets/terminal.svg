@@ -35,7 +35,7 @@
     <text x="24" y="110"><tspan class="key">name       </tspan><tspan class="val">Antonio Rivas</tspan></text>
   </g>
   <g class="out" style="animation-delay:2.1s">
-    <text x="24" y="138"><tspan class="key">role       </tspan><tspan class="acc">Backend Developer</tspan></text>
+    <text x="24" y="138"><tspan class="key">role       </tspan><tspan class="acc">Full-Stack Developer</tspan></text>
   </g>
   <g class="out" style="animation-delay:2.4s">
     <text x="24" y="166"><tspan class="key">location   </tspan><tspan class="val">Madrid, ES (Europe/Madrid)</tspan></text>
@@ -44,7 +44,7 @@
     <text x="24" y="194"><tspan class="key">stack      </tspan><tspan class="val">Java · Spring Boot · Python · FastAPI</tspan></text>
   </g>
   <g class="out" style="animation-delay:3.0s">
-    <text x="24" y="222"><tspan class="key">infra      </tspan><tspan class="val">Docker · Kubernetes · Maven · openSUSE</tspan></text>
+    <text x="24" y="222"><tspan class="key">infra      </tspan><tspan class="val">Docker · Kubernetes · Linux</tspan></text>
   </g>
   <g class="out" style="animation-delay:3.3s">
     <text x="24" y="250"><tspan class="key">status     </tspan><tspan class="ok">✔ open to collaborate</tspan></text>
